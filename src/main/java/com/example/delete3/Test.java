@@ -9,5 +9,7 @@ public class Test {
         System.out.println("epick 1");
         System.out.println("epick 2");
 
+        System.out.println("r 1");
+
     }
 }
